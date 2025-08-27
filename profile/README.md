@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/ieeemsit"><img src="https://img.shields.io/github/followers/ieeemsit?label=Follow&style=for-the-badge&logo=github&color=00629B" alt="Followers"></a>
+    <a href="https://github.com/IEEE-MSIT"><img src="https://img.shields.io/github/followers/ieeemsit?label=Follow&style=for-the-badge&logo=github&color=00629B" alt="Followers"></a>
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Active">
     <img src="https://img.shields.io/badge/Maintained%20by-IEEE%20Web%20Dev%20Team%20'25-C84C31?style=for-the-badge" alt="Maintained by IEEE Web Dev Team '25">
 <!--     <a href="https://github.com/ieeemsit/.github/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ieeemsit/website?style=for-the-badge&color=A7B77F" alt="License"></a> -->
