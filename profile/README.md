@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://ieeemsit.org/" target="_blank">
+  <a href="https://ieeemsit.vercel.app/" target="_blank">
     <img src="https://github.com/rajveeerr/IEEEMSIT/blob/main/public/IEEEWhiteLogowithTransparentBG.png" alt="IEEE MSIT Logo" width="250"/>
   </a>
 
@@ -19,7 +19,7 @@
   </p>
 
   <p align="center">
-    <a href="https://ieeemsit.org/"><strong>Visit Our Flagship Website</strong></a>
+    <a href="https://ieeemsit.vercel.app/"><strong>Visit Our Flagship Website</strong></a>
     ·
     <a href="https://github.com/ieeemsit/.github/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report a Bug</a>
     ·
