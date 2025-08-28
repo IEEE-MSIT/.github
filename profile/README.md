@@ -95,8 +95,8 @@ This organization hosts multiple projects. Find the one you're looking for below
 | Repository                                     | Description                                                    | Status      |
 | ---------------------------------------------- | -------------------------------------------------------------- | ----------- |
 | [`ieee-msit/website`](https://github.com/ieee-msit/website) | The primary public-facing website for IEEE MSIT.               | ✅ Active   |
-| `ieee-msit/automation-bots`                     | Collection of scripts for automating content and operations.   | 🚧 In Dev   |
-| `ieee-msit/admin-panel`                         | Central dashboard for managing website content and members.    | 规划中 (Planned) |
+| [`ieee-msit/event-automation`]((https://github.com/ieee-msit/event-automation))                     | Collection of scripts for automating content and operations.   | ✅ Active   |
+| `ieee-msit/admin-panel`                         | Central dashboard for managing website content and members.    | 🚧 In Dev |
 | [`ieee-msit/.github`](https://github.com/ieee-msit/.github)  | Community health files and organizational templates.           | ✅ Active   |
 
 ---
