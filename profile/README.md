@@ -107,15 +107,6 @@ Meet the team responsible for steering our digital strategy and maintaining the 
 
 <table>
 <tr>
-<!-- <td align="center">
-  <a href="https://github.com/[your-github-username]">
-    <img src="https://via.placeholder.com/100" width="100px;" alt="[Your Name]"/>
-    <br />
-    <sub><b>[Your Name]</b></sub>
-    <br />
-    <sub><b>Vice Chairperson</b></sub>
-  </a>
-</td> -->
 <td align="center">
   <a href="https://github.com/rajveeerr">
     <img src="https://avatars.githubusercontent.com/u/176945581?s=400&u=1dc187dbe5d896c88640168291484b2963a7f67d&v=4)?s=400&u=1dc187dbe5d896c88640168291484b2963a7f67d&v=4)?auto=format&fit=crop&w=200&q=80" width="100px;" alt="Rajveer Singh"/>
@@ -123,6 +114,15 @@ Meet the team responsible for steering our digital strategy and maintaining the 
     <sub><b>Rajveer Singh</b></sub>
     <br />
     <sub><b>Vice Chairperson Web Dev</b></sub>
+  </a>
+</td>
+  <td align="center">
+  <a href="https://github.com/AneeshAhuja31">
+    <img src="https://avatars.githubusercontent.com/u/148528080?v=4" width="100px;" alt="Aneesh Ahuja"/>
+    <br />
+    <sub><b>Aneesh Ahuja</b></sub>
+    <br />
+    <sub><b>PR Lead RAS</b></sub>
   </a>
 </td>
 <!-- Add other core team members as needed -->
